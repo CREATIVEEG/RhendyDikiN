@@ -108,4 +108,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Subscribe ke channel <a href="https://www.youtube.com/channel/UCGjbrqRqL3cpjVjqmITgFdQ" target="_blank">Github Profilinator</a></div>
