@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" align="center" style="width: 100%" />
+ <img src="https://i.postimg.cc/g0bRJzhZ/ezgif-com-gif-maker-1.gif" align="center" style="width: 100%" />
 </div>  
   
 ### <div align="center">Hi, Saya Rhendy Diki Nugraha 👨‍💻 seorang mahasiswa Teknik Informatika sejak 2022 🚀</div>  
@@ -90,7 +91,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## My Activity  
   
 
 <br/>  
