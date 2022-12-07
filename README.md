@@ -2,7 +2,6 @@
 <img src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">Hi, Saya Rhendy Diki Nugraha 👨‍💻 seorang mahasiswa Teknik Informatika sejak 2022 🚀</div>  
   
 
@@ -83,7 +82,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RhendyDikiN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RhendyDikiN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="center" /></div>  
+<div align="center"><img src=https://github-readme-streak-stats.herokuapp.com/?user=RhendyDikiN&theme=dark&hide_border=false" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhendyDikiN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /></div>  
+
 
 <br/>  
 
