@@ -70,10 +70,10 @@
 <a href="https://instagram.com/rhendydiki_unix" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/Rhendy Diki N" target="_blank">
+<a href="https://www.facebook.com/rhendy.dikin/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/Rhendy Diki Nugraha" target="_blank">
+<a href="https://www.youtube.com/channel/UCGjbrqRqL3cpjVjqmITgFdQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -108,4 +108,4 @@
 <br />
 
 ----
-<div align="center">Subscribe ke channel <a href="https://www.youtube.com/channel/UCGjbrqRqL3cpjVjqmITgFdQ" target="_blank">Github Profilinator</a></div>
+<div align="center">Subscribe ke channel <a href="https://www.youtube.com/channel/UCGjbrqRqL3cpjVjqmITgFdQ" target="_blank">Rhendy Diki Nugraha</a></div>
